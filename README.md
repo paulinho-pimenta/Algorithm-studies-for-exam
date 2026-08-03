@@ -1,3 +1,3 @@
-# Studies to exam algorithm
+# Studies to algorithm
 - Insertion sort
 - Binary search
